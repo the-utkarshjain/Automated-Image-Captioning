@@ -1,0 +1,8 @@
+*.pt
+.ipynb_checkpoints
+__pycache__
+.DS_Store
+data
+trained_models
+experiment_data
+*.ipynb
